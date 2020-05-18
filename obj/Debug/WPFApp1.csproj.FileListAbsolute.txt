@@ -1,0 +1,17 @@
+V:\Technologies\CS\WindowsApp\WPFApp1\bin\Debug\WPFApp1.exe.config
+V:\Technologies\CS\WindowsApp\WPFApp1\bin\Debug\WPFApp1.exe
+V:\Technologies\CS\WindowsApp\WPFApp1\bin\Debug\WPFApp1.pdb
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\WPFApp1.csprojAssemblyReference.cache
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\MainWindow.g.cs
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\App.g.cs
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.cache
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\WPFApp1_MarkupCompile.lref
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\MainWindow.baml
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\WPFApp1.g.resources
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\WPFApp1.Properties.Resources.resources
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\WPFApp1.csproj.GenerateResource.cache
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\WPFApp1.csproj.CoreCompileInputs.cache
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\WPFApp1.exe
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\WPFApp1.pdb
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\MyGrid.g.cs
+V:\Technologies\CS\WindowsApp\WPFApp1\obj\Debug\MyGrid.baml
